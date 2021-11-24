@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is chap 3. Adding this part.
+=======
+sasadadadada
+>>>>>>> ＜new-branch＞
